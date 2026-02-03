@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/aniketV9x7/leetcode-solution/tree/master/0242-valid-anagram) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
@@ -21,5 +22,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/aniketV9x7/leetcode-solution/tree/master/0242-valid-anagram) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/aniketV9x7/leetcode-solution/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
