@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/aniketV9x7/leetcode-solution/tree/master/0506-relative-ranks) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3379-transformed-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/3379-transformed-array) |
 ## Sorting
 |  |
 | ------- |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/aniketV9x7/leetcode-solution/tree/master/0506-relative-ranks) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
