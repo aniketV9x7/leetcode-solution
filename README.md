@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aniketV9x7/leetcode-solution/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/aniketV9x7/leetcode-solution/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/aniketV9x7/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aniketV9x7/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniketV9x7/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aniketV9x7/leetcode-solution/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/aniketV9x7/leetcode-solution/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/aniketV9x7/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniketV9x7/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/aniketV9x7/leetcode-solution/tree/master/0148-sort-list) |
 | [1382-balance-a-binary-search-tree](https://github.com/aniketV9x7/leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -99,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/aniketV9x7/leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/aniketV9x7/leetcode-solution/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/aniketV9x7/leetcode-solution/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
