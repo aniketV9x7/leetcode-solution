@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniketV9x7/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/aniketV9x7/leetcode-solution/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/aniketV9x7/leetcode-solution/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/aniketV9x7/leetcode-solution/tree/master/0506-relative-ranks) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniketV9x7/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/aniketV9x7/leetcode-solution/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/aniketV9x7/leetcode-solution/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/aniketV9x7/leetcode-solution/tree/master/0506-relative-ranks) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/3634-minimum-removals-to-balance-array) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aniketV9x7/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aniketV9x7/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniketV9x7/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
