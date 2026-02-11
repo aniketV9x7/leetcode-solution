@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/aniketV9x7/leetcode-solution/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniketV9x7/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/aniketV9x7/leetcode-solution/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/aniketV9x7/leetcode-solution/tree/master/0148-sort-list) |
 | [1382-balance-a-binary-search-tree](https://github.com/aniketV9x7/leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/aniketV9x7/leetcode-solution/tree/master/3721-longest-balanced-subarray-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -131,10 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/aniketV9x7/leetcode-solution/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/aniketV9x7/leetcode-solution/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting Sort
 |  |
 | ------- |
