@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/aniketV9x7/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/aniketV9x7/leetcode-solution/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aniketV9x7/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/3379-transformed-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/aniketV9x7/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/aniketV9x7/leetcode-solution/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aniketV9x7/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/3634-minimum-removals-to-balance-array) |
 ## Enumeration
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/aniketV9x7/leetcode-solution/tree/master/0368-largest-divisible-subset) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aniketV9x7/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 ## Segment Tree
 |  |
 | ------- |
