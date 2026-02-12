@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aniketV9x7/leetcode-solution/tree/master/0242-valid-anagram) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aniketV9x7/leetcode-solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [3713-longest-balanced-substring-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3713-longest-balanced-substring-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aniketV9x7/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniketV9x7/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3713-longest-balanced-substring-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/aniketV9x7/leetcode-solution/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search
@@ -144,4 +147,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/aniketV9x7/leetcode-solution/tree/master/0274-h-index) |
+| [3713-longest-balanced-substring-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
