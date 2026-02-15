@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aniketV9x7/leetcode-solution/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/aniketV9x7/leetcode-solution/tree/master/0242-valid-anagram) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aniketV9x7/leetcode-solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aniketV9x7/leetcode-solution/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/3379-transformed-array) |
 ## Sliding Window
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aniketV9x7/leetcode-solution/tree/master/0067-add-binary) |
 | [0368-largest-divisible-subset](https://github.com/aniketV9x7/leetcode-solution/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aniketV9x7/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 ## Segment Tree
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/aniketV9x7/leetcode-solution/tree/master/0274-h-index) |
 | [3713-longest-balanced-substring-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3713-longest-balanced-substring-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/aniketV9x7/leetcode-solution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
