@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aniketV9x7/leetcode-solution/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/aniketV9x7/leetcode-solution/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/aniketV9x7/leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/aniketV9x7/leetcode-solution/tree/master/3721-longest-balanced-subarray-ii) |
@@ -161,4 +162,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aniketV9x7/leetcode-solution/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/aniketV9x7/leetcode-solution/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
