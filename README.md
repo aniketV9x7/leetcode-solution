@@ -51,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/aniketV9x7/leetcode-solution/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/aniketV9x7/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniketV9x7/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0696-count-binary-substrings](https://github.com/aniketV9x7/leetcode-solution/tree/master/0696-count-binary-substrings) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## String
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aniketV9x7/leetcode-solution/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/aniketV9x7/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0696-count-binary-substrings](https://github.com/aniketV9x7/leetcode-solution/tree/master/0696-count-binary-substrings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aniketV9x7/leetcode-solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [3713-longest-balanced-substring-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3713-longest-balanced-substring-i) |
