@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/aniketV9x7/leetcode-solution/tree/master/3721-longest-balanced-subarray-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aniketV9x7/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aniketV9x7/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aniketV9x7/leetcode-solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/3634-minimum-removals-to-balance-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aniketV9x7/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniketV9x7/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0696-count-binary-substrings](https://github.com/aniketV9x7/leetcode-solution/tree/master/0696-count-binary-substrings) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aniketV9x7/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/aniketV9x7/leetcode-solution/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/aniketV9x7/leetcode-solution/tree/master/3379-transformed-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aniketV9x7/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aniketV9x7/leetcode-solution/tree/master/0067-add-binary) |
 | [0368-largest-divisible-subset](https://github.com/aniketV9x7/leetcode-solution/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aniketV9x7/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aniketV9x7/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Segment Tree
 |  |
 | ------- |
@@ -174,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/aniketV9x7/leetcode-solution/tree/master/0401-binary-watch) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aniketV9x7/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
